@@ -1,0 +1,20 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    padding: 20px;
+}
+.t1 {
+    
+    padding: 20px;
+    border-radius: 10px; 
+    height: 330px;
+}
+img {
+    border: 2px solid black;
+}
+#footer {
+    background-color:azure;
+    text-align: center;
+}
+#footer h4 {
+    font-weight: bold;
+}
