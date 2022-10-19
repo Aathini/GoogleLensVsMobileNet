@@ -1,0 +1,1 @@
+document.getElementById("GLPen").innerHTML = "Marking tool";
